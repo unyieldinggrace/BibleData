@@ -6,3 +6,6 @@ The file OSHB.db is a SQLite database file, containing every word of the Hebrew 
 
 # License
 Lemma and morphology data are licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. For attribution purposes, credit the Open Scriptures Hebrew Bible Project. The text of the WLC remains in the [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
+
+# Further Information
+A guide to the characters used in the morphology codes is [here.](http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html)
